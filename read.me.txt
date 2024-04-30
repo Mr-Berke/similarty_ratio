@@ -1,0 +1,3 @@
+Bu kod kosinüs benzerlik teoremi kullanarak 2 metinin benzerlik oranını hesaplar 
+
+this code calculates similarity ratio between 2 texts with cosinus theorem
